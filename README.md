@@ -1,4 +1,4 @@
-# This is my project title
+# Effective Altruism Protocol
 
 This sentence describes what my project is about summarized.
 
@@ -19,7 +19,4 @@ Feel free to contribute to this project to make it better!
 
 This project has an MIT License.
 
-## Made by love
 
-- [StarterTemplates](https://twitter.com/startertemp)
-- [LearnWeb3DAO](https://learnweb3.io)
